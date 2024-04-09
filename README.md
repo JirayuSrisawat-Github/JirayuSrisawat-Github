@@ -2,7 +2,7 @@
 <h3 align="center">A 13 years old full-stack developer from Thailand.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jirayusrisawat-github&label=Profile%20views&color=0e75b6&style=flat" alt="jirayusrisawat-github" /> </p>
-
+<a href="https://wakatime.com/@018db4da-85ba-4f41-8efd-4ae5176d9ab7"> <img src="https://wakatime.com/badge/user/018db4da-85ba-4f41-8efd-4ae5176d9ab7.svg" alt="Wakatime"> </a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jirayusrisawat-github" alt="jirayusrisawat-github" /></a> </p>
 
 - 🔭 I’m currently working on [RLSS Project](https://rlss.in.th)
