@@ -37,4 +37,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jirayusrisawat-github&" alt="jirayusrisawat-github" /></p>
 
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=JirayuSrisawat" /></p>
+
 <figure><embed src="https://wakatime.com/share/@018db4da-85ba-4f41-8efd-4ae5176d9ab7/3d96d50c-604d-47ca-838d-a8265f4459f0.svg"></embed></figure>
