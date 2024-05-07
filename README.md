@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Nuxt, Next, Discord.JS**
 
-- 📫 How to reach me **jirayu.s@oxygen-project.xyz**
+- 📫 How to reach me **jirayu@oreshi.com**
 
 - 📄 Know about my experiences [https://jirayu.pw](https://jirayu.pw)
 
