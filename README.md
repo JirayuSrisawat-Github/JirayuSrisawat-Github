@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jirayu Srisawat</h1>
-<h3 align="center">A 13 years old full-stack developer from Thailand.</h3>
+<h3 align="center">A 14 years old full-stack developer from Thailand.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jirayusrisawat-github&label=Profile%20views&color=0e75b6&style=flat" alt="jirayusrisawat-github" /> </p>
 <a href="https://wakatime.com/@018db4da-85ba-4f41-8efd-4ae5176d9ab7"> <img src="https://wakatime.com/badge/user/018db4da-85ba-4f41-8efd-4ae5176d9ab7.svg" alt="Wakatime"> </a>
