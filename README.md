@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with [RLSS Project](https://rlss.in.th)
 
-- 👨‍💻 All of my projects are available at [https://jirayu.pw](https://jirayu.pw)
+- 👨‍💻 All of my projects are available at [https://jirayu.net](https://jirayu.net)
 
 - 💬 Ask me about **Nuxt, Next, Discord.JS**
 
 - 📫 How to reach me **jirayu@oreshi.com**
 
-- 📄 Know about my experiences [https://jirayu.pw](https://jirayu.pw)
+- 📄 Know about my experiences [https://jirayu.net](https://jirayu.net)
 
 - ⚡ Fun fact **I think I am funny.**
 
