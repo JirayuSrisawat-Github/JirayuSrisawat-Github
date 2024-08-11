@@ -1,0 +1,9 @@
+docker pull ghcr.io/pterodactyl/yolks:debian
+docker pull ghcr.io/pterodactyl/yolks:java_21
+docker pull ghcr.io/pterodactyl/yolks:java_17
+docker pull ghcr.io/pterodactyl/yolks:java_16
+docker pull ghcr.io/pterodactyl/yolks:java_11
+docker pull ghcr.io/pterodactyl/yolks:java_8
+docker pull ghcr.io/parkervcp/yolks:voice_mumble
+docker pull ghcr.io/pterodactyl/games:rust
+docker pull oxygenproj/aio
