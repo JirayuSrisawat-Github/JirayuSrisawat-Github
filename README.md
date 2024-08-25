@@ -5,19 +5,19 @@
 <a href="https://wakatime.com/@018db4da-85ba-4f41-8efd-4ae5176d9ab7"> <img src="https://wakatime.com/badge/user/018db4da-85ba-4f41-8efd-4ae5176d9ab7.svg" alt="Wakatime"> </a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jirayusrisawat-github" alt="jirayusrisawat-github" /></a> </p>
 
-- 🔭 I’m currently working on [RLSS Project](https://rlss.in.th)
+- 🔭 I’m currently working on [Oreshi Project](https://oreshi.com)
 
 - 🌱 I’m currently learning **.NET**
 
-- 👯 I’m looking to collaborate on [RLSS Project](https://rlss.in.th)
+- 👯 I’m looking to collaborate on [Oreshi Project](https://oreshi.com)
 
-- 🤝 I’m looking for help with [RLSS Project](https://rlss.in.th)
+- 🤝 I’m looking for help with [Oreshi Project](https://oreshi.com)
 
 - 👨‍💻 All of my projects are available at [https://jirayu.net](https://jirayu.net)
 
 - 💬 Ask me about **Nuxt, Next, Discord.JS**
 
-- 📫 How to reach me **jirayu@oreshi.com**
+- 📫 How to reach me **jirayu.s@jirayu.net**
 
 - 📄 Know about my experiences [https://jirayu.net](https://jirayu.net)
 
