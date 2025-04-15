@@ -1,6 +1,7 @@
 **Yuzu Discord Music Bot - Terms of Service**
 
 **Last Updated**: April 15, 2025
+
 Welcome to Yuzu, your friendly Discord music and AI chatbot companion! By using Yuzu, you agree to these Terms of Service ("TOS").
 
 **Data Collection and Use**
